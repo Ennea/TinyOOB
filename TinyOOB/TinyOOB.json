@@ -2,8 +2,9 @@
     "Name": "TinyOOB",
     "Author": "Ennea",
     "Punchline": "Adds a command to freeze the game thread.",
-    "Description": "The tiniest OOB plugin. Adds command `/frz`, which freezes the game thread for the specified time in seconds. For all your input buffering needs.",
+    "Description": "The tiniest OOB plugin. Adds command /frz, which freezes the game thread for the specified time in seconds. For all your input buffering needs.",
     "RepoUrl": "https://github.com/Ennea/TinyOOB",
+    "IconUrl": "https://raw.githubusercontent.com/Ennea/TinyOOB/master/icon.png",
     "Tags": [ "oob", "freeze" ],
     "AcceptsFeedback": false
 }
