@@ -3,7 +3,7 @@
         "Author": "Ennea",
         "Name": "TinyOOB",
         "InternalName": "TinyOOB",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.2.0",
         "Description": "The tiniest OOB plugin. Adds command /frz, which freezes the game thread for the specified time in seconds. For all your input buffering needs.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Ennea/TinyOOB",
@@ -11,7 +11,7 @@
             "oob",
             "freeze"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -19,8 +19,8 @@
         "IconUrl": "https://raw.githubusercontent.com/Ennea/TinyOOB/master/icon.png",
         "Punchline": "Adds a command to freeze the game thread.",
         "AcceptsFeedback": false,
-        "LastUpdate": 1744041463,
-        "DownloadLinkInstall": "https://github.com/Ennea/TinyOOB/releases/download/1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ennea/TinyOOB/releases/download/1.0.1/latest.zip"
+        "LastUpdate": 1754810790,
+        "DownloadLinkInstall": "https://github.com/Ennea/TinyOOB/releases/download/1.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ennea/TinyOOB/releases/download/1.0.2/latest.zip"
     }
 ]
